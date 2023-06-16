@@ -9,8 +9,8 @@ from rest_framework.permissions import IsAuthenticated
 
 
 
-def index(request):
-    return render(request, 'index.html', {})
+def home(request):
+    return render(request, 'index.html')
 
 
 class MenuItemsView(generics.ListCreateAPIView):
