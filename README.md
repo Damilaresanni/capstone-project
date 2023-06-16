@@ -2,7 +2,8 @@
 Little lemon booking app
 
 
-
+My virtual environment is present in the littlemon directory it is titled workspace.
+To activate the virtual environment type workspace\Scripts\activate while inside the littlemon directory.
 
 Endpoints for testing
 
